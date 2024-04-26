@@ -1,1 +1,2 @@
-Provides a description of the Jupyter notebooks used in the project. 
+# notebook
+This directory contains all Jupyter notebooks.
