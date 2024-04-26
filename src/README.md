@@ -1,1 +1,2 @@
-Houses the source code for simulation models and other computational tools used in the thesis.
+# src  
+This directory contains all the source code
