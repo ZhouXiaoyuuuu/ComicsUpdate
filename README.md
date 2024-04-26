@@ -6,7 +6,7 @@ The repository is regularly updated with fresh data analyses and improved method
 
 ## Current Project Structure
 
-### `tintin_pilotdata/`
+### `tintin_pilot_data/`
 Contains all the data files necessary for the analysis. This includes raw data as well as processed data ready for further analysis.
 
 ### `notebook/`
