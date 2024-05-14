@@ -1,5 +1,5 @@
 # Update for MA Thesis 2024
-Welcome to the repository for the 2024 MA Thesis update! This thesis is part of the ongoing TINTIN project, an initiative hosted by the [Visual Language Lab](https://www.visuallanguagelab.com/tintin).
+Welcome to the repository for the 2024 MA Thesis update! This thesis is part of the ongoing [TINTIN project](https://www.visuallanguagelab.com/tintin), an initiative hosted by the [Visual Language Lab]([https://www.visuallanguagelab.com/tintin](https://www.visuallanguagelab.com/)).
 
 ## Overview
 The repository is regularly updated with fresh data analyses and improved methodologies, reflecting ongoing enhancements and research feedback that enrich the thesis.
